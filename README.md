@@ -58,6 +58,13 @@ py -m pip install selenium
 py -m pip install wget
 ```
 
+### 下載ChromeDriver
+
+### 運行專案
+```bash
+python main.py
+```
+
 <!-- ## 資料夾及檔案說明
 - -->
 
